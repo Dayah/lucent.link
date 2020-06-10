@@ -8,6 +8,8 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//twitter.com/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg">Lucent</a>
 <a href="//facebook.com/michael.dayah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg">michael.dayah</a>
 <a href="//lucent.tumblr.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tumblr.svg">lucent</a>
+<a href="//www.reddit.com/user/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/reddit.svg">Lucent</a>
+<a href="//www.pinterest.com/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pinterest.svg">Lucent</a>
 
 # Payment
 <a href="//cash.app/$Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cashapp.svg">Lucent</a>
@@ -17,6 +19,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 # Photo
 <a href="//www.deviantart.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deviantart.svg">Lucent</a>
 <a href="//lucent.smugmug.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/smugmug.svg">Lucent</a>
+<a href="//app.photobucket.com/u/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/photobucket.svg">lucent</a>
 
 # Chat
 <a href="//lucent.smugmug.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/smugmug.svg">Lucent</a>
