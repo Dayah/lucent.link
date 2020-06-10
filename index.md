@@ -1,5 +1,5 @@
 <style>
-a	{ font-size: 1.5em; display: block; line-height: 1.5 }
+a	{ font-size: 1.5em; display: block; line-height: 1.5; margin-bottom: 0.2em; }
 img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 </style>
 
@@ -12,6 +12,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 # Payment
 <a href="//cash.app/$Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cashapp.svg">Lucent</a>
 <a href="//venmo.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/venmo.svg">Lucent</a>
+<a href="//www.paypal.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/paypal.svg">Lucent</a>
 
 # Photo
 <a href="//www.deviantart.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deviantart.svg">Lucent</a>
@@ -19,9 +20,14 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 
 # Chat
 <a href="//lucent.smugmug.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/smugmug.svg">Lucent</a>
-<a href="https://discord.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg">Lucent#0001</a>
-<a href="https://discord.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg">lucent#0001</a>
+<a href="//t.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg">lucent</a>
+<a href="//discord.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg">Lucent#0001</a>
+<a href="//discord.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg">lucent#0001</a>
+
+# Portfolio
+<a href="//www.behance.net/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/behance.svg">lucent</a>
 
 # Other
 <a href="//en.wikipedia.org/wiki/User:Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wikipedia.svg">Lucent</a>
 <a href="//www.goodreads.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/goodreads.svg">lucent</a>
+<a href="//www.etsy.com/people/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/etsy.svg">lucent</a>
