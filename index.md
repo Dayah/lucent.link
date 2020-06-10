@@ -1,3 +1,7 @@
+---
+title: Lucent Profile URLs
+---
+
 <style>
 p > a	{ font-size: 1.5em; display: block; line-height: 1.5; margin-bottom: 0.2em; margin-left: 0.5em; }
 img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
