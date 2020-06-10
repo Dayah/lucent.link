@@ -14,12 +14,13 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//news.ycombinator.com/user?id=Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ycombinator.svg">Lucent</a>
 <a href="//lucent.livejournal.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/livejournal.svg">lucent</a>
 <a href="//mewe.com/i/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mewe.svg">lucent</a>
-<a href="//lucent.wordpress.com/><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg">lucent</a>
+<a href="//lucent.wordpress.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg">lucent</a>
 
 # Payment
 <a href="//cash.app/$Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cashapp.svg">Lucent</a>
 <a href="//venmo.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/venmo.svg">Lucent</a>
 <a href="//www.paypal.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/paypal.svg">Lucent</a>
+<a href="//www.patreon.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/patreon.svg">Lucent</a>
 
 # Photo
 <a href="//www.deviantart.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deviantart.svg">Lucent</a>
@@ -37,10 +38,19 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.behance.net/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/behance.svg">lucent</a>
 <a href="//www.slideshare.net/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slideshare.svg">lucent</a>
 <a href="//keybase.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/keybase.svg">lucent</a>
+<a href="//www.linkedin.com/in/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg">lucent</a>
 
 # Dating
 <a href="//www.okcupid.com/profile/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/okcupid.svg">lucent</a>
 <a href="//www.gotinder.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tinder.svg">lucent</a>
+
+# Review
+<a href="//https://lucent.yelp.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/yelp.svg">lucent</a>
+
+# Scrobble
+<a href="//www.last.fm/user/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/lastfm.svg">Lucent</a>
+<a href="//trakt.tv/users/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/trakt.svg">Lucent</a>
+<a href="//letterboxd.com/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/letterboxd.svg">Lucent</a>
 
 # Other
 <a href="//en.wikipedia.org/wiki/User:Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wikipedia.svg">Lucent</a>
