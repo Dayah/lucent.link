@@ -1,6 +1,6 @@
 <style>
-a	{ font-size: 2em; display: block; }
-img	{ height: 2em; }
+a	{ font-size: 1.5em; display: block; line-height: 1.5 }
+img	{ height: 1.5em; vertical-align: bottom; }
 
 </style>
 
