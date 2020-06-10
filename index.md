@@ -15,6 +15,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//twitter.com/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg">Lucent</a>
 <a href="//lucent.tumblr.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tumblr.svg">lucent</a>
 <a href="//lucent.wordpress.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg">lucent</a>
+<a href="//medium.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg">lucent</a>
 
 # Email
 <a href="mailto:lucent@fill-it-in"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/protonmail.svg">lucent@</a>
@@ -106,4 +107,6 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//foursquare.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/foursquare.svg">Lucent</a>
 <a href="//www.geocaching.com/p/default.aspx?u=lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/geocaching.svg">lucent</a>
 <a href="//archive.org/details/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/internetarchive.svg">lucent</a>
-<a href="https://www.instapaper.com/p/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instapaper.svg">lucent</a>
+<a href="//www.instapaper.com/p/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instapaper.svg">lucent</a>
+<a href="//getpocket.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pocket.svg">lucent</a>
+<a href="//pastebin.com/u/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pastebin.svg">Lucent</a>
