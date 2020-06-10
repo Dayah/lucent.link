@@ -18,6 +18,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.reddit.com/user/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/reddit.svg">Lucent</a>
 <a href="//slashdot.org/~Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slashdot.svg">Lucent</a>
 <a href="//news.ycombinator.com/user?id=Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ycombinator.svg">Lucent</a>
+<a href="//www.metafilter.com/user/10197"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/metafilter.svg">Lucent</a>
 
 # Payment
 <a href="//cash.app/$Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cashapp.svg">Lucent</a>
@@ -30,6 +31,8 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//lucent.smugmug.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/smugmug.svg">Lucent</a>
 <a href="//app.photobucket.com/u/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/photobucket.svg">lucent</a>
 <a href="//vsco.co/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vsco.svg">lucent</a>
+<a href="//500px.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/500px.svg">lucent</a>
+<a href="//imgur.com/user/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/imgur.svg">lucent</a>
 
 # Programming
 <a href="//github.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg">Lucent</a>
@@ -67,3 +70,5 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.etsy.com/people/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/etsy.svg">lucent</a>
 <a href="//open.spotify.com/user/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spotify.svg">lucent</a>
 <a href="//vimeo.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vimeo.svg">lucent</a>
+<a href="//launchpad.net/~lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/launchpad.svg">lucent</a>
+<a href="//www.meetup.com/members/6618/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/meetup.svg">Lucent</a>
