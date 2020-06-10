@@ -67,7 +67,8 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.gotinder.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tinder.svg">lucent</a>
 
 # Review
-<a href="//https://lucent.yelp.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/yelp.svg">lucent</a>
+<a href="//lucent.yelp.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/yelp.svg">lucent</a>
+<a href="//www.tripadvisor.com/Profile/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tripadvisor.svg">Lucent</a>
 
 # Scrobble
 <a href="//www.last.fm/user/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/lastfm.svg">Lucent</a>
