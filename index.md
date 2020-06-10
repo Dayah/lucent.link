@@ -67,6 +67,8 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.slideshare.net/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slideshare.svg">lucent</a>
 <a href="//keybase.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/keybase.svg">lucent</a>
 <a href="//www.linkedin.com/in/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg">lucent</a>
+<a href="//about.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/about-dot-me.svg">lucent</a>
+<a href="//independent.academia.edu/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/academia.svg">lucent</a>
 
 # Dating
 <a href="//www.okcupid.com/profile/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/okcupid.svg">lucent</a>
@@ -89,3 +91,5 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//launchpad.net/~lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/launchpad.svg">lucent</a>
 <a href="//www.meetup.com/members/6618/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/meetup.svg">Lucent</a>
 <a href="//trello.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/trello.svg">lucent</a>
+<a href="//lucent.1password.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/1password.svg">lucent</a>
+
