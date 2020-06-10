@@ -8,6 +8,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//myspace.com/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/myspace.svg">lucent</a>
 <a href="//lucent.livejournal.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/livejournal.svg">lucent</a>
 <a href="//mewe.com/i/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mewe.svg">lucent</a>
+<a href="//ello.co/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ello.svg">lucent</a>
 <a href="//facebook.com/michael.dayah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg">michael.dayah</a>
 
 # Blog
@@ -31,6 +32,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.paypal.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/paypal.svg">Lucent</a>
 <a href="//www.patreon.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/patreon.svg">Lucent</a>
 <a href="//ko-fi.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ko-fi.svg">Lucent</a>
+<a href="//www.buymeacoffee.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/buymeacoffee.svg">lucent</a>
 
 # Photo
 <a href="//www.instagram.com/l.ucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg">l.ucent</a>
@@ -53,6 +55,9 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//sourceforge.net/u/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sourceforge.svg">lucent</a>
 <a href="//www.npmjs.com/~lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/npm.svg">lucent</a>
 <a href="//rubygems.org/profiles/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rubygems.svg">lucent</a>
+<a href="//www.codecademy.com/profiles/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codecademy.svg">lucent</a>
+<a href="https://codepen.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codepen.svg">lucent</a>
+<a href="https://dev.to/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dev-dot-to.svg">lucent</a>
 
 # Chat
 <a href="//lucent.smugmug.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/smugmug.svg">Lucent</a>
@@ -68,6 +73,9 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//keybase.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/keybase.svg">lucent</a>
 <a href="//www.linkedin.com/in/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg">lucent</a>
 <a href="//about.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/about-dot-me.svg">lucent</a>
+
+# Academic
+<a href="//independent.academia.edu/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/academia.svg">lucent</a>
 <a href="//independent.academia.edu/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/academia.svg">lucent</a>
 
 # Dating
@@ -92,4 +100,5 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.meetup.com/members/6618/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/meetup.svg">Lucent</a>
 <a href="//trello.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/trello.svg">lucent</a>
 <a href="//lucent.1password.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/1password.svg">lucent</a>
-
+<a href="//www.buzzfeed.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/buzzfeed.svg">lucent</a>
+<a href="//community.fandom.com/wiki/User:Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/fandom.svg">Lucent</a>
