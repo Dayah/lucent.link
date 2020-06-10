@@ -1,5 +1,5 @@
 <style>
-a	{ font-size: 1.5em; display: block; line-height: 1.5; margin-bottom: 0.2em; martin-left: 0.25em; }
+a	{ font-size: 1.5em; display: block; line-height: 1.5; margin-bottom: 0.2em; margin-left: 0.25em; }
 img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 </style>
 
@@ -13,6 +13,8 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//myspace.com/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/myspace.svg">lucent</a>
 <a href="//news.ycombinator.com/user?id=Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ycombinator.svg">Lucent</a>
 <a href="//lucent.livejournal.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/livejournal.svg">lucent</a>
+<a href="//mewe.com/i/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mewe.svg">lucent</a>
+<a href="//lucent.wordpress.com/><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg">lucent</a>
 
 # Payment
 <a href="//cash.app/$Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cashapp.svg">Lucent</a>
@@ -34,6 +36,11 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 # Portfolio
 <a href="//www.behance.net/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/behance.svg">lucent</a>
 <a href="//www.slideshare.net/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slideshare.svg">lucent</a>
+<a href="//keybase.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/keybase.svg">lucent</a>
+
+# Dating
+<a href="//www.okcupid.com/profile/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/okcupid.svg">lucent</a>
+<a href="//www.gotinder.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tinder.svg">lucent</a>
 
 # Other
 <a href="//en.wikipedia.org/wiki/User:Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wikipedia.svg">Lucent</a>
