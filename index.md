@@ -72,6 +72,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//t.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg">lucent</a>
 <a href="//disqus.com/by/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/disqus.svg">Lucent</a>
 <a href="xmpp:lucent@jabber.org"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jabber.svg">Lucent</a>
+<a href="//matrix.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/matrix.svg">Lucent</a>
 <a href="//www.snapchat.com/add/lego"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/snapchat.svg">lego</a>
 <a href="//discord.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg">Lucent#0001</a>
 <a href="//discord.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg">lucent#0001</a>
