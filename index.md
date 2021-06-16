@@ -1,6 +1,7 @@
 ---
 title: Lucent Profile URLs
 ---
+<meta name="robots" content="noindex">
 
 <style>
 p > a	{ font-size: 1.5em; display: block; line-height: 1.5; margin-bottom: 0.2em; margin-left: 0.5em; }
@@ -44,6 +45,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.instagram.com/l.ucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg">l.ucent</a>
 <a href="//www.deviantart.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deviantart.svg">Lucent</a>
 <a href="//lucent.smugmug.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/smugmug.svg">Lucent</a>
+<a href="//lucent.myportfolio.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobe.svg">lucent</a>
 <a href="//app.photobucket.com/u/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/photobucket.svg">lucent</a>
 <a href="//vsco.co/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vsco.svg">lucent</a>
 <a href="//500px.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/500px.svg">lucent</a>
@@ -82,7 +84,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.slideshare.net/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/slideshare.svg">lucent</a>
 <a href="//keybase.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/keybase.svg">lucent</a>
 <a href="//www.linkedin.com/in/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg">lucent</a>
-<a href="//about.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/about-dot-me.svg">lucent</a>
+<a href="//about.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/aboutdotme.svg">lucent</a>
 <a href="//en.gravatar.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gravatar.svg">lucent</a>
 
 # News
