@@ -42,7 +42,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.buymeacoffee.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/buymeacoffee.svg">lucent</a>
 
 # Photo
-<a href="//www.instagram.com/l.ucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg">l.ucent</a>
+<a href="//www.instagram.com/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg">lucent</a>
 <a href="//www.deviantart.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deviantart.svg">Lucent</a>
 <a href="//lucent.smugmug.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/smugmug.svg">Lucent</a>
 <a href="//lucent.myportfolio.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobe.svg">lucent</a>
