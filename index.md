@@ -14,7 +14,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//lucent.livejournal.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/livejournal.svg">lucent</a>
 <a href="//mewe.com/i/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mewe.svg">lucent</a>
 <a href="//ello.co/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ello.svg">lucent</a>
-<a href="//facebook.com/michael.dayah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg">michael.dayah</a>
+<a href="//facebook.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg">lucent</a>
 <a href="//steemit.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/steemit.svg">Lucent</a>
 
 # Blog
