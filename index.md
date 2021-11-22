@@ -77,7 +77,6 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//matrix.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/matrix.svg">Lucent</a>
 <a href="//www.snapchat.com/add/lego"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/snapchat.svg">lego</a>
 <a href="//discord.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg">Lucent#0001</a>
-<a href="//discord.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg">lucent#0001</a>
 
 # Portfolio
 <a href="//www.behance.net/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/behance.svg">lucent</a>
@@ -86,6 +85,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.linkedin.com/in/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg">lucent</a>
 <a href="//about.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/aboutdotme.svg">lucent</a>
 <a href="//en.gravatar.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gravatar.svg">lucent</a>
+<a href="//linktre.ee/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linktree.svg">lucent</a>
 
 # News
 <a href="//www.buzzfeed.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/buzzfeed.svg">lucent</a>
@@ -125,3 +125,9 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.geocaching.com/p/default.aspx?u=lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/geocaching.svg">lucent</a>
 <a href="//archive.org/details/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/internetarchive.svg">lucent</a>
 <a href="//pastebin.com/u/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pastebin.svg">Lucent</a>
+
+# Crypto
+<a href="//app.ens.domains/name/lucent.eth"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ethereum.svg">lucent.eth</a>
+<a href="//naming.bonfida.org/#/domain/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/solana.svg">lucent.sol</a>
+<a href="//opensea.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/solana.svg">Lucent</a>
+<a href="//crypto.com/nft/profile/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/crypto.svg">Lucent</a>
