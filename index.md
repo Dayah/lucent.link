@@ -9,13 +9,13 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 </style>
 
 # Social
-<a href="//www.pinterest.com/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pinterest.svg">Lucent</a>
+<a href="//facebook.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg">lucent</a>
+<a href="//www.tiktok.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg">lucent</a>
 <a href="//myspace.com/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/myspace.svg">lucent</a>
 <a href="//lucent.livejournal.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/livejournal.svg">lucent</a>
 <a href="//mewe.com/i/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mewe.svg">lucent</a>
 <a href="//ello.co/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ello.svg">lucent</a>
-<a href="//facebook.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg">lucent</a>
-<a href="//steemit.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/steemit.svg">Lucent</a>
+<a href="//www.pinterest.com/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pinterest.svg">Lucent</a>
 
 # Blog
 <a href="//twitter.com/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg">Lucent</a>
@@ -131,3 +131,4 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//naming.bonfida.org/#/domain/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/solana.svg">lucent.sol</a>
 <a href="//opensea.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/solana.svg">Lucent</a>
 <a href="//crypto.com/nft/profile/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/crypto.svg">Lucent</a>
+<a href="//steemit.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/steemit.svg">Lucent</a>
