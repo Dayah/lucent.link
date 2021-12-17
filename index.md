@@ -129,6 +129,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 # Crypto
 <a href="//app.ens.domains/name/lucent.eth"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ethereum.svg">lucent.eth</a>
 <a href="//naming.bonfida.org/#/domain/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/solana.svg">lucent.sol</a>
+<a href="//"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/handshake_protocol.svg">lucent/</a>
 <a href="//market.decentraland.org/contracts/0x2a187453064356c898cae034eaed119e1663acb8/tokens/5605008077716012717816551517946623872140395072582907769902153895583928063135"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/decentraland.svg">Lucent.dcl.eth</a>
 <a href="//opensea.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/solana.svg">Lucent</a>
 <a href="//rarible.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rarible.svg">Lucent</a>
