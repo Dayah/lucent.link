@@ -10,9 +10,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 
 # Social
 <a href="//facebook.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/facebook.svg">lucent</a>
-<a href="//www.tiktok.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg">lucent</a>
 <a href="//myspace.com/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/myspace.svg">lucent</a>
-<a href="//lucent.livejournal.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/livejournal.svg">lucent</a>
 <a href="//mewe.com/i/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mewe.svg">lucent</a>
 <a href="//ello.co/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ello.svg">lucent</a>
 <a href="//www.pinterest.com/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pinterest.svg">Lucent</a>
@@ -22,6 +20,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//lucent.tumblr.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tumblr.svg">lucent</a>
 <a href="//lucent.wordpress.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg">lucent</a>
 <a href="//medium.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg">lucent</a>
+<a href="//lucent.livejournal.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/livejournal.svg">lucent</a>
 
 # Email
 <a href="mailto:@protonmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/protonmail.svg">lucent@</a>
@@ -56,6 +55,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//vine.co/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vine.svg">lucent</a>
 <a href="//www.youtube.com/user/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg">lucent</a>
 <a href="//d.tube/c/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dtube.svg">lucent</a>
+<a href="//www.tiktok.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg">lucent</a>
 
 # Programming
 <a href="//github.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg">Lucent</a>
@@ -63,6 +63,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//gitlab.com/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gitlab.svg">Lucent</a>
 <a href="//sourceforge.net/u/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sourceforge.svg">lucent</a>
 <a href="//www.npmjs.com/~lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/npm.svg">lucent</a>
+<a href="//hub.docker.com/u/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg">lucent</a>
 <a href="//rubygems.org/profiles/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rubygems.svg">lucent</a>
 <a href="//www.codecademy.com/profiles/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codecademy.svg">lucent</a>
 <a href="//codepen.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codepen.svg">lucent</a>
