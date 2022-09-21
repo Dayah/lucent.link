@@ -71,7 +71,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.freecodecamp.org/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/freecodecamp.svg">lucent</a>
 
 # Chat
-<a href="//lucent.smugmug.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/smugmug.svg">Lucent</a>
+<a href="//www.messenger.com/t/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/messenger.svg">lucent</a>
 <a href="//t.me/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/telegram.svg">lucent</a>
 <a href="//disqus.com/by/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/disqus.svg">Lucent</a>
 <a href="xmpp:lucent@jabber.org"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jabber.svg">Lucent</a>
