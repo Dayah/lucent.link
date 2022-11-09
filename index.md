@@ -53,7 +53,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 # Video
 <a href="//vimeo.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vimeo.svg">lucent</a>
 <a href="//vine.co/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vine.svg">lucent</a>
-<a href="//www.youtube.com/user/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg">lucent</a>
+<a href="//www.youtube.com/@Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg">Lucent</a>
 <a href="//d.tube/c/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dtube.svg">lucent</a>
 <a href="//www.tiktok.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tiktok.svg">lucent</a>
 
