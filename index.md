@@ -135,7 +135,8 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.lensfrens.xyz/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/lens_protocol.svg">lucent.lens</a>
 <a href="//www.namebase.io/domains/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/handshake_protocol.svg">lucent/</a>
 <a href="//market.decentraland.org/contracts/0x2a187453064356c898cae034eaed119e1663acb8/tokens/5605008077716012717816551517946623872140395072582907769902153895583928063135"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/decentraland.svg">Lucent.dcl.eth</a>
-<a href="//opensea.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/solana.svg">Lucent</a>
+<a href="https://warpcast.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/farcaster">Lucent</a>
+<a href="//opensea.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/opensea.svg">Lucent</a>
 <a href="//rarible.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rarible.svg">Lucent</a>
 <a href="//crypto.com/nft/profile/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/crypto.svg">Lucent</a>
 <a href="//steemit.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/steemit.svg">Lucent</a>
