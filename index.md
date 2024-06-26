@@ -21,7 +21,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//lucent.wordpress.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/wordpress.svg">lucent</a>
 <a href="//medium.com/@lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/medium.svg">lucent</a>
 <a href="//lucent.livejournal.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/livejournal.svg">lucent</a>
-<a href="//bsky.app/profile/lucent.at"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bluesky.svg">lucent.at</a>
+<a href="//bsky.app/profile/lucent.one"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/bluesky.svg">lucent.at</a>
 
 # Email
 <a href="mailto:@proton.me"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/protonmail.svg">lucent@</a>
