@@ -26,6 +26,9 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 # Email
 <a href="mailto:@proton.me"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/protonmail.svg">lucent@</a>
 <a href="mailto:@outlook.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftoutlook.svg">lucent@</a>
+<a href="mailto:@tuta.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tutanota.svg">lucent@</a>
+<a href="mailto:@hey.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hey.svg">lucent@</a>
+<a href="mailto:@linux.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linuxfoundation.svg">lucent@</a>
 
 # News Aggregator
 <a href="//www.reddit.com/user/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/reddit.svg">Lucent</a>
@@ -46,6 +49,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//www.deviantart.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/deviantart.svg">Lucent</a>
 <a href="//lucent.smugmug.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/smugmug.svg">Lucent</a>
 <a href="//lucent.myportfolio.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobe.svg">lucent</a>
+<a href="//lightroom.adobe.com/u/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/adobelightroom.svg">lucent</a>
 <a href="//app.photobucket.com/u/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/photobucket.svg">lucent</a>
 <a href="//vsco.co/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/vsco.svg">lucent</a>
 <a href="//500px.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/500px.svg">lucent</a>
@@ -64,6 +68,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//gitlab.com/Lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gitlab.svg">Lucent</a>
 <a href="//sourceforge.net/u/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/sourceforge.svg">lucent</a>
 <a href="//www.npmjs.com/~lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/npm.svg">lucent</a>
+<a href="//pypi.org/user/lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/pypi.svg">lucent</a>
 <a href="//hub.docker.com/u/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg">lucent</a>
 <a href="//rubygems.org/profiles/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rubygems.svg">lucent</a>
 <a href="//www.codecademy.com/profiles/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codecademy.svg">lucent</a>
@@ -77,7 +82,7 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 <a href="//disqus.com/by/Lucent/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/disqus.svg">Lucent</a>
 <a href="xmpp:lucent@jabber.org"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/jabber.svg">Lucent</a>
 <a href="//matrix.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/matrix.svg">Lucent</a>
-<a href="//www.snapchat.com/add/lego"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/snapchat.svg">lego</a>
+<a href="//www.snapchat.com/add/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/snapchat.svg">lucent</a>
 <a href="//discord.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/discord.svg">Lucent#0001</a>
 
 # Portfolio
@@ -130,12 +135,13 @@ img	{ height: 1.5em; vertical-align: bottom; margin-right: 0.5em; }
 
 # Crypto
 <a href="//app.ens.domains/lucent.eth"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ethereum.svg">lucent.eth</a>
+<a href="//ud.me/lucent.x"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/unstoppabledomains.svg">lucent.x</a>
 <a href="//www.sns.id/domain?domain=lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/solana.svg">lucent.sol</a>
+<a href="//www.namebase.io/domains/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/handshake_protocol.svg">lucent/</a>
 <a href="//hns.id/domain/lucent.hns/profile"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/handshake_protocol.svg">lucent.hns</a>
 <a href="//www.lensfrens.xyz/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/lens_protocol.svg">lucent.lens</a>
-<a href="//www.namebase.io/domains/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/handshake_protocol.svg">lucent/</a>
 <a href="//market.decentraland.org/contracts/0x2a187453064356c898cae034eaed119e1663acb8/tokens/5605008077716012717816551517946623872140395072582907769902153895583928063135"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/decentraland.svg">Lucent.dcl.eth</a>
-<a href="https://warpcast.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/farcaster">Lucent</a>
+<a href="https://warpcast.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/farcaster.svg">Lucent</a>
 <a href="//opensea.io/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/opensea.svg">Lucent</a>
 <a href="//rarible.com/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rarible.svg">Lucent</a>
 <a href="//crypto.com/nft/profile/lucent"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/crypto.svg">Lucent</a>
